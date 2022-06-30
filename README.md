@@ -1,56 +1,57 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Catalogue
 
-# Project Name
-
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+> This is a Ruby Catalogue CLI designed to keep track of your things (books, movies, music albums and games). This CLI will allow you to add items in lists of various Genre and saving them in Local DB file, to access later, when needed.
 
 ## Getting Started
+#### [Live Demo Link](https://drive.google.com/file/d/1DwREXl_dCgAYhjEplJ59zI9dN28IYqBW/view?usp=sharing)
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To create a local copy of the project, follow these steps: 
+##### Open terminal and navigate to the project folder. Then run the following command:
+ ```
+ git clone https://github.com/RaoAkif/Catalogue
+ ```
+##### Enter the folder with:
+ ```
+ cd Catalogue
+ ```
+## Run the Project
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+##### Type in the command line:
+ ```
+ ./main.rb
+ ```
+## Testing
+##### To run the tests just type the following in your termial:
+ 
+```
+rspec
+```
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Aaron**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AKeeganDev](https://github.com/AKeeganDev)
+- Twitter: [@AkeeganDev](https://twitter.com/AkeeganDev)
+- LinkedIn: [AKeeganDev](https://linkedin.com/in/AKeeganDev)
 
-👤 **Author2**
+👤 **RaoAkif**
+- GitHub: [@raoakif](https://github.com/raoakif)
+- Twitter: [@raoakif](https://twitter.com/raoakif)
+- LinkedIn: [RaoAkif](https://linkedin.com/in/raoakif)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Have**
+
+- GitHub: [Have-Samuel](https://github.com/Have-Samuel)
+- Twitter: [@samhave1](https://twitter.com/@samhave1)
+- LinkedIn: [Have Samuel Kabreebe](https://linkedin.com/in/Have-Samuel-Kabreebe) 
+
+👤 **Ivan**
+
+- GitHub: [@ivaan1992](github.com/ivaan1992)
+- Twitter: [@ivangaona92](https://twitter.com/ivangaona92)
+- LinkedIn: [Ivan1992](https://www.linkedin.com/in/ivan-linares-gaona/)
 
 ## 🤝 Contributing
 
